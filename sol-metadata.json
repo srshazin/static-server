@@ -1,0 +1,7 @@
+{
+  "name": "Solana Arcade Token",
+  "symbol": "SAT",
+  "description": "Reward points for the game",
+  "image": "https://raw.githubusercontent.com/srshazin/static-server/refs/heads/main/img/chick.jpg",
+  "attributes": []
+}
